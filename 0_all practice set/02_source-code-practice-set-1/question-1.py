@@ -1,2 +1,0 @@
-print("Hello, World! Welcome to Python.")
-# nothing xyz
