@@ -1,0 +1,16 @@
+topic - python
+
+-data types - dictonary , list , tuples strings , boolean , integer , float
+-how to update , remove , add a value in list
+-how to update , remove , add a value in tuples
+-how to update , remove , add a value in dictonary
+
+how to convert a value string into integer , float into string ettc..
+
+if else 
+- script ask user for a number and if it matches with the program generated number then it wins 
+extend it to like program will ask user to continue or not using y and n
+- program will generate any random number for ludo (using random library)
+
+for , while loop
+
